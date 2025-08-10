@@ -1,2 +1,5 @@
+Welcome to the version control
+Hello from GitNewBranch!
 Hello from master branch!
 
+Hello from master branch!
